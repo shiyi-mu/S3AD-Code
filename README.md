@@ -1,5 +1,7 @@
 # S3AD
-
+<center>
+<img src="figs/figures-f1-OOD-define.png" alt="Logo" width="300"/>
+</center>
 We release a **road-scene 3D anomaly object detection dataset** based on **augmented reality**.  
 The dataset consists of two subsets:
 
@@ -15,10 +17,15 @@ paper link: https://arxiv.org/html/2507.09214v1
 
 dataset link: https://huggingface.co/datasets/shiyimu/KITTI-AR-OoD
 
-
 If the data is inaccessible or if you have any questions, please contact me at shiyimu@shu.edu.cn
 
 (如果数据无法访问，或任何疑问，可联系我邮箱：shiyimu@shu.edu.cn)
+
+# Baseline
+We release a simple multi-branch 3D anomaly detection baseline based on YOLOStereo3D for detecting the 3D locations of open-set objects.
+<center>
+<img src="figs/figures-result_r13D.png" alt="Logo" width="300"/>
+</center>
 
 # Install 
 
