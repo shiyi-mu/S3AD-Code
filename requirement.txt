@@ -1,0 +1,14 @@
+numpy==1.23.5
+coloredlogs
+pillow
+scikit-image
+fire
+matplotlib
+opencv-python
+numba
+easydict
+tensorflow >= 2.0
+cython
+tqdm
+pyquaternion
+setuptools==59.5.0

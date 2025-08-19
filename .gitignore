@@ -1,0 +1,5 @@
+*.pyc
+workdirs/
+*.pth
+visualDet3D/networks/lib/ops/iou3d/iou3d_cuda.cpython-38-x86_64-linux-gnu.so
+visualDet3D/networks/lib/ops/dcn/deform_conv_ext.cpython-38-x86_64-linux-gnu.so
