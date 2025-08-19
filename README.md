@@ -2,6 +2,7 @@
 <center>
 <img src="figs/figures-f1-OOD-define.png" alt="Logo" width="300"/>
 </center>
+
 We release a **road-scene 3D anomaly object detection dataset** based on **augmented reality**.  
 The dataset consists of two subsets:
 
