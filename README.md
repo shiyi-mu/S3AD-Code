@@ -50,7 +50,17 @@ bash 3-07-811-eval-train-arood-val-arnums-10of10.sh
 
 # Models and Results
 
-coming soon
+
+Final model pth file: [Stereo3D_latest.pth](https://drive.google.com/file/d/11uyOnzvjhsy0nB2NfdC-Q51kADNV1S6-/view?usp=drive_link)
+
+
+
+If you would like to make comparisons on other metrics, our inference results are as follows:
+
+如果你想在其他指标下进行对比，我们的网络输出结果如下：
+
+OoD detection results txts: [ood_result.zip](https://drive.google.com/file/d/1ty_yqcFF7oE7erAhWtrEIp6IMB2ZOlYB/view?usp=drive_link)
+
 
 ---
 license: apache-2.0
