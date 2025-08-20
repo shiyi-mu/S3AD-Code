@@ -14,7 +14,7 @@ The ground truth annotations strictly follow the format of the **KITTI 3D Object
 Details of the synthesis process and evaluation baselines can be found in our paper:  
 **_Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline_**.(Under Review)
 
-paper link: https://arxiv.org/html/2507.09214v1 
+paper link: http://arxiv.org/abs/2507.09214
 
 dataset link: https://huggingface.co/datasets/shiyimu/KITTI-AR-OoD
 
