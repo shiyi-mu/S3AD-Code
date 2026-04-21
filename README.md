@@ -21,6 +21,8 @@ paper link: http://arxiv.org/abs/2507.09214
 
 dataset link: https://huggingface.co/datasets/shiyimu/KITTI-AR-OoD
 
+The dataset construction process can be found at: https://github.com/shiyi-mu/CARLA-OoD3D
+
 If the data is inaccessible or if you have any questions, please contact me at shiyimu@shu.edu.cn
 
 (如果数据无法访问，或任何疑问，可联系我邮箱：shiyimu@shu.edu.cn)
